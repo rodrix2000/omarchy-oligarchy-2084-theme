@@ -15,7 +15,7 @@
     {"id":"07","slug":"annual-general-election","file":"backgrounds/07-annual-general-election.jpg","size":[3840,2160],"textless_master":true,"ultrawide":false},
     {"id":"08","slug":"public-float-zero","file":"backgrounds/08-public-float-zero.jpg","size":[3840,2160],"textless_master":true,"ultrawide":true}
   ],
-  "unlock":{"file":"unlock.png","size":[1024,1024],"mode":"RGBA","text":false},
+  "unlock":{"file":"unlock.png","size":[800,480],"mode":"RGBA","text":false,"source_viewbox":[1024,1024]},
   "screensavers":[
     {"file":"extras/screensavers/public-access-read-only.png","size":[1600,900]},
     {"file":"extras/screensavers/voice-received-policy-unchanged.png","size":[1600,900]}
@@ -23,4 +23,3 @@
   "social":{"file":"extras/social/oligarchy-2084-social-1200x675.jpg","size":[1200,675]},
   "emblem_source":"extras/source/shareholder-republic-emblem.svg"
 }
-
