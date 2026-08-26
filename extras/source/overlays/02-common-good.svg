@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:3px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:2px}
+    </style>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#eaf2f7" opacity=".14"/></pattern>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#scan)" opacity=".08"/>
+  <g transform="translate(528 1306)">
+    <rect width="402" height="516" rx="34" fill="#070a12" opacity=".80" stroke="#4bd6d2" stroke-width="3"/>
+    <rect x="24" y="24" width="354" height="468" rx="20" fill="none" stroke="#6c8cff" stroke-width="2" opacity=".65"/>
+    <text class="mono" x="48" y="76" font-size="18" fill="#4bd6d2">CIVIC SERVICES // 02</text>
+    <text class="display" x="46" y="168" font-size="70" fill="#eaf2f7">COMMON</text>
+    <text class="display" x="46" y="240" font-size="76" fill="#9a77e8">GOOD™</text>
+    <rect x="48" y="274" width="300" height="2" fill="#4bd6d2"/>
+    <text class="mono" x="48" y="320" font-size="16" fill="#eaf2f7">AVAILABLE TO ELIGIBLE</text>
+    <text class="mono" x="48" y="348" font-size="16" fill="#eaf2f7">STAKEHOLDERS</text>
+    <text class="mono" x="48" y="410" font-size="14" fill="#6f7f96">PUBLIC ACCESS</text>
+    <text class="mono" x="276" y="410" font-size="14" fill="#76d6a4">ENABLED</text>
+    <text class="mono" x="48" y="446" font-size="14" fill="#6f7f96">GOVERNANCE</text>
+    <text class="mono" x="278" y="446" font-size="14" fill="#e6b75a">PREFERRED</text>
+  </g>
+</svg>

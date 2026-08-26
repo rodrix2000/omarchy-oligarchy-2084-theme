@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:5px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:3px}
+    </style>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#eaf2f7" opacity=".15"/></pattern>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#scan)" opacity=".09"/>
+  <g transform="translate(252 1420)">
+    <rect width="1120" height="354" rx="18" fill="#070a12" opacity=".66" stroke="#6c8cff" stroke-width="2"/>
+    <text class="mono" x="42" y="62" font-size="19" fill="#4bd6d2">OWNERSHIP LEDGER // PUBLIC VIEW</text>
+    <rect x="42" y="90" width="870" height="2" fill="#4bd6d2" opacity=".75"/>
+    <text class="display" x="42" y="184" font-size="70" fill="#eaf2f7">PUBLIC FLOAT</text>
+    <text class="display" x="656" y="184" font-size="78" fill="#9a77e8">0.00%</text>
+    <text class="mono" x="42" y="258" font-size="17" fill="#6f7f96">SYSTEM VISIBILITY</text>
+    <text class="mono" x="636" y="258" font-size="17" fill="#4bd6d2">PUBLIC</text>
+    <text class="mono" x="42" y="306" font-size="17" fill="#6f7f96">GOVERNANCE RIGHTS</text>
+    <text class="mono" x="636" y="306" font-size="17" fill="#e6b75a">CONTROLLING INTEREST</text>
+  </g>
+</svg>

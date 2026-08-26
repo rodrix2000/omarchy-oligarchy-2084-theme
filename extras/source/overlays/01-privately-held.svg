@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:10px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:4px}
+    </style>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#eaf2f7" opacity=".16"/></pattern>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#scan)" opacity=".10"/>
+  <rect x="238" y="286" width="5" height="720" fill="#4bd6d2"/>
+  <text class="mono" x="286" y="330" font-size="24" fill="#4bd6d2">SHAREHOLDER REPUBLIC // DIVISION 2084</text>
+  <text class="display" x="278" y="535" font-size="174" fill="#e85aa8" opacity=".34">OLIGARCHY</text>
+  <text class="display" x="286" y="527" font-size="174" fill="#eaf2f7">OLIGARCHY</text>
+  <text class="display" x="278" y="710" font-size="174" fill="#4bd6d2" opacity=".30">2084</text>
+  <text class="display" x="286" y="702" font-size="174" fill="#9a77e8">2084</text>
+  <rect x="286" y="770" width="720" height="3" fill="#6c8cff" opacity=".75"/>
+  <text class="display" x="286" y="864" font-size="62" fill="#eaf2f7" letter-spacing="5">THE FUTURE IS</text>
+  <text class="display" x="286" y="936" font-size="62" fill="#9a77e8" letter-spacing="5">PRIVATELY HELD.</text>
+  <text class="mono" x="286" y="1002" font-size="20" fill="#a8b5c6">PUBLIC ACCESS // OBSERVER</text>
+  <text class="mono" x="286" y="1040" font-size="20" fill="#a8b5c6">GOVERNANCE // CONTROLLING INTEREST</text>
+  <circle cx="286" cy="1120" r="20" fill="none" stroke="#4bd6d2" stroke-width="3"/>
+  <circle cx="286" cy="1120" r="7" fill="#9a77e8"/>
+  <path d="M328 1120h248" stroke="#4bd6d2" stroke-width="2" opacity=".65"/>
+</svg>

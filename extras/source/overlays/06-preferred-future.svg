@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:4px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:2px}
+    </style>
+    <clipPath id="board"><rect x="2058" y="976" width="1046" height="565" rx="38"/></clipPath>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#070a12" opacity=".13"/></pattern>
+  </defs>
+  <g clip-path="url(#board)">
+    <rect x="2058" y="976" width="1046" height="565" fill="#eef0e8" opacity=".94"/>
+    <rect x="2058" y="976" width="1046" height="565" fill="url(#scan)" opacity=".18"/>
+    <text class="mono" x="2150" y="1060" font-size="18" fill="#151f33">SHAREHOLDER REPUBLIC // FUTURES OFFICE</text>
+    <rect x="2150" y="1092" width="760" height="3" fill="#4bd6d2"/>
+    <text class="display" x="2150" y="1212" font-size="86" fill="#151f33">YOUR FUTURE HAS</text>
+    <text class="display" x="2144" y="1312" font-size="92" fill="#4bd6d2" opacity=".35">BEEN PRE-APPROVED</text>
+    <text class="display" x="2150" y="1306" font-size="92" fill="#7653cf">BEEN PRE-APPROVED</text>
+    <text class="mono" x="2150" y="1390" font-size="20" fill="#3d4657">CHANGES REQUIRE A CONTROLLING INTEREST.</text>
+    <text class="mono" x="2150" y="1470" font-size="17" fill="#6f7f96">PROGRAM 2084 // PREFERRED OUTCOME</text>
+  </g>
+</svg>

@@ -8,8 +8,8 @@ commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`.
 - PASS — Installed from the public GitHub URL with `omarchy theme install`.
 - PASS — Repository name resolved to the expected slug `oligarchy-2084`.
 - PASS — Theme activated as `Oligarchy 2084`.
-- PASS — Eight backgrounds staged and cycled in filename order, returning to
-  `Privately Held` after a complete loop.
+- PASS — Eight backgrounds staged and cycled in filename order; the live
+  desktop was left on `Preferred Future` for the unobstructed preview layout.
 - PASS — Hand-written `colors.toml`, `btop.theme`, `chromium.theme`,
   `icons.theme`, and `keyboard.rgb` survived remote-theme staging.
 - PASS — Omarchy regenerated the filtered terminal, editor, Hyprland, and
@@ -35,7 +35,8 @@ commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`.
 - PASS — The official Plymouth preview workflow generated
   `preview-unlock.png` with the emblem, entry, bullets, and lock icon visible.
 - PASS — `preview.png` is a native 1440×900 screenshot of the running system,
-  not a conceptual mockup.
+  not a conceptual mockup. Its application windows occupy the left half while
+  the Preferred Future campaign display remains fully visible on the right.
 
 The actual lock and polkit credential flows were not submitted during automated
 validation. Their generated shell sections were inspected for background,
@@ -72,11 +73,17 @@ which remained visually distinct in the live Foot sample.
   README copy, metadata, previews, and social assets. The internal asset audit
   records their exclusion as required by the handoff.
 
+## Contest preflight
+
+The announcement supplied by the project owner was reviewed through the
+publisher's embed endpoint on 2026-08-26. It asks for an Oligarchy theme that
+is both funny and good-looking enough to ship, sets the deadline to Friday
+2026-08-28, and requests submissions by email to `david@omarchy.org`. No email
+has been sent.
+
 ## Known validation limits
 
 - Dedicated ultrawide files were dimension- and composition-checked but the
   target laptop has no 3440×1440 monitor.
-- Contest delivery instructions were not discoverable on a current official
-  page during the repository release. Recheck the live announcement immediately
-  before submitting; no contest email or post was sent as part of this build.
-
+- Recheck that the live announcement has not changed immediately before
+  submission; no contest email or post was sent as part of this build.

@@ -9,7 +9,8 @@ were excluded rather than traced, recolored, or reused.
 ## Included work
 
 - Eight new text-free scene bases produced specifically for Oligarchy 2084
-- Deterministic typography and interface overlays using exact approved copy
+- Deterministic, editable SVG typography and interface overlays using exact
+  approved copy
 - Original split-governance-diamond emblem in editable SVG
 - Four dedicated ultrawide recompositions
 - Two high-contrast screensaver source images
@@ -18,5 +19,6 @@ were excluded rather than traced, recolored, or reused.
 The release uses no stock photos, real-person portraits, real company logos,
 font binaries, or copied art from another Omarchy theme. DHH's Diablo Dreams
 theme and first-party Omarchy themes were inspected only for repository and
-file-structure conventions.
-
+file-structure conventions. The reference theme contains nine backgrounds;
+Oligarchy 2084 retains eight because each has a distinct narrative role rather
+than to satisfy a fixed count.

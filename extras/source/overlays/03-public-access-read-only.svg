@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:8px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:3px}
+    </style>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#eaf2f7" opacity=".15"/></pattern>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#scan)" opacity=".10"/>
+  <text class="mono" x="248" y="540" font-size="22" fill="#4bd6d2">SHAREHOLDER REPUBLIC // ACCESS LAYER</text>
+  <text class="display" x="248" y="760" font-size="138" fill="#eaf2f7">PUBLIC ACCESS</text>
+  <text class="display" x="240" y="918" font-size="150" fill="#4bd6d2" opacity=".30">READ ONLY</text>
+  <text class="display" x="248" y="910" font-size="150" fill="#9a77e8">READ ONLY</text>
+  <rect x="248" y="984" width="760" height="4" fill="#4bd6d2"/>
+  <text class="mono" x="248" y="1055" font-size="22" fill="#a8b5c6">PARTICIPATION DOES NOT IMPLY CONTROL.</text>
+  <g transform="translate(248 1180)">
+    <rect width="950" height="174" rx="16" fill="#070a12" opacity=".72" stroke="#6c8cff" stroke-width="2"/>
+    <text class="mono" x="36" y="52" font-size="17" fill="#6f7f96">PERMISSION</text>
+    <text class="mono" x="520" y="52" font-size="17" fill="#6f7f96">ACCESS CLASS</text>
+    <text class="mono" x="36" y="100" font-size="18" fill="#eaf2f7">READ</text>
+    <text class="mono" x="520" y="100" font-size="18" fill="#4bd6d2">PUBLIC</text>
+    <text class="mono" x="36" y="140" font-size="18" fill="#eaf2f7">GOVERN</text>
+    <text class="mono" x="520" y="140" font-size="18" fill="#f0626e">CONTROLLING</text>
+  </g>
+</svg>

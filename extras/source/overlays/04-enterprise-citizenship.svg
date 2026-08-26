@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:4px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:2px}
+    </style>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#eaf2f7" opacity=".13"/></pattern>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#scan)" opacity=".08"/>
+  <text class="mono" x="246" y="360" font-size="22" fill="#4bd6d2">ENTERPRISE CITIZENSHIP // SERVICE HALL 04</text>
+  <text class="mono" x="246" y="410" font-size="18" fill="#a8b5c6">ENROLLMENT: COMPLIMENTARY // CONTROL: OWNERSHIP-GATED</text>
+  <g text-anchor="middle">
+    <text class="mono" x="1830" y="510" font-size="19" fill="#4bd6d2">CIVIC CLASS // PUBLIC</text>
+    <text class="display" x="1830" y="568" font-size="42" fill="#eaf2f7">ACCESS OPEN</text>
+    <text class="mono" x="2420" y="460" font-size="19" fill="#6c8cff">CIVIC CLASS // PREFERRED</text>
+    <text class="display" x="2420" y="518" font-size="42" fill="#eaf2f7">OWNERSHIP VERIFIED</text>
+    <text class="mono" x="3210" y="372" font-size="19" fill="#e6b75a">CIVIC CLASS // CONTROLLING</text>
+    <text class="display" x="3210" y="430" font-size="42" fill="#eaf2f7">GOVERNANCE ACTIVE</text>
+  </g>
+</svg>

@@ -72,3 +72,38 @@ ownership core with broad public service orbits and distributed civic lights;
 quiet vector-astronomical diagram blended with cinematic depth, extensive
 negative space, cyan, blue, violet and chrome with one small amber control
 point; no literal text or recognizable planet.
+
+## 1.1 scene-edit prompts
+
+The built-in OpenAI image-generation tool edited three text-free masters. In
+every case the existing image was the edit target, the 16:9 composition and
+desktop negative space were preserved, and text, logos, watermarks, flags,
+seals, weapons, decay, violence, and overt horror were prohibited.
+
+### 02 — Common Good
+
+Restyle the civic pavilion as a late-1970s airbrushed corporate annual-report
+vision of a pristine future. Make the plaza eerily orderly and sparse; add
+subtle circular surveillance apertures, smoked-glass CRT kiosks, an attractive
+but inaccessible administrative layer, fine analog grain, restrained
+cyan/magenta registration drift, phosphor bloom, and gently faded paper color.
+Keep it aspirational in daylight first and controlled-unsettling second.
+
+### 04 — Enterprise Citizenship
+
+Restyle the three-lane enrollment lobby as premium dystopian retro-future
+institutional art. Preserve the empty left wall and three portals; make their
+hierarchy visible through floor channels, increasingly luxurious materials,
+progressively narrower thresholds, CRT consoles, indicator lamps, ceiling
+apertures, and an extra glass barrier around the controlling portal. Use
+airbrushed architectural-rendering texture and sparse cyan, violet, and amber.
+
+### 05 — Open Source / Closed Board
+
+Restyle the operations center as a late-1970s mainframe chamber. Preserve the
+dark left negative space, public data flow, and sealed ownership core. Replace
+contemporary touchscreens with monochrome CRT consoles, physical keys,
+indicator lamps, and paper-feed slots; route public conduits into the sealed
+board chamber and one amber authorization point. Use cold public
+infrastructure, warm private control, analog grain, registration drift, and
+gentle phosphor bloom.

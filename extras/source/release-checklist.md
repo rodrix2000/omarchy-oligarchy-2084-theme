@@ -9,6 +9,10 @@
 - [x] Eight final 4K backgrounds are present.
 - [x] Four 3440×1440 ultrawide variants are present.
 - [x] Text-bearing images use deterministic, exact typography.
+- [x] Four campaign-led and four diegetic backgrounds avoid repetitive copy.
+- [x] Contest announcement reviewed on 2026-08-26: best attempt must be funny
+  and good-looking enough to ship; deadline Friday, 2026-08-28; recipient
+  `david@omarchy.org`.
 - [x] `preview.png` is a real Omarchy screenshot.
 - [x] `preview-unlock.png` was produced with the current Plymouth preview workflow.
 - [x] Contact sheet reflects all final backgrounds.
@@ -17,5 +21,4 @@
 - [x] No font binaries or executable theme payload are included.
 - [x] No secrets, private data, generated caches, or machine-local paths are included.
 - [x] All repository preview images decode successfully.
-- [ ] Reverify the live contest deadline and recipient immediately before submission.
-
+- [ ] Send the contest submission email after explicit owner approval.

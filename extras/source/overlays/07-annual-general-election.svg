@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:4px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:2px}
+    </style>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#070a12" opacity=".12"/></pattern>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#scan)" opacity=".06"/>
+  <text class="mono" x="220" y="350" font-size="21" fill="#26334b">SHAREHOLDER REPUBLIC // RESOLUTION PORTAL</text>
+  <text class="display" x="220" y="520" font-size="112" fill="#0e1524">ANNUAL GENERAL</text>
+  <text class="display" x="214" y="642" font-size="122" fill="#4bd6d2" opacity=".32">ELECTION</text>
+  <text class="display" x="220" y="636" font-size="122" fill="#7653cf">ELECTION</text>
+  <rect x="220" y="694" width="690" height="4" fill="#4bd6d2"/>
+  <text class="mono" x="220" y="758" font-size="20" fill="#3d4657">VOTING POWER IS PROPORTIONAL TO OWNERSHIP.</text>
+  <g text-anchor="middle">
+    <text class="mono" x="1942" y="820" font-size="17" fill="#3d4657">RESOLUTION A</text>
+    <text class="display" x="1942" y="1170" font-size="48" fill="#0e1524"><tspan x="1942">APPROVE</tspan><tspan x="1942" dy="54">THE BOARD</tspan></text>
+    <text class="mono" x="2510" y="770" font-size="17" fill="#7653cf">RESOLUTION B</text>
+    <text class="display" x="2510" y="1120" font-size="45" fill="#0e1524"><tspan x="2510">APPROVE WITH</tspan><tspan x="2510" dy="54">CONFIDENCE</tspan></text>
+    <text class="mono" x="3180" y="720" font-size="17" fill="#9f721e">RESOLUTION C</text>
+    <text class="display" x="3180" y="1100" font-size="52" fill="#0e1524">ABSTAIN</text>
+  </g>
+</svg>
