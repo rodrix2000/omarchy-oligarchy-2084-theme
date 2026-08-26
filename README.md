@@ -31,7 +31,7 @@ The repository name resolves to the installed theme slug `oligarchy-2084`.
 - Matching btop, Chromium, icon, and keyboard-color files
 - Transparent ownership/access unlock emblem
 - Four dedicated 3440×1440 ultrawide compositions
-- Two optional 1600×900 screensaver source images
+- Two optional 1600×900 physical-CRT screensaver source images
 - No scripts, daemons, telemetry, plugins, or permission changes
 
 ## Palette

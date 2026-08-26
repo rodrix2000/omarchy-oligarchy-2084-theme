@@ -17,6 +17,12 @@ The final raster exports are sRGB JPEGs at 3840×2160. Textless masters use the
 same dimensions. Dedicated ultrawide variants are 3440×1440 and are cropped or
 recomposed from the clean scene rather than stretched.
 
+The two optional 1600×900 screensaver sources use the same environmental-copy
+rule inside high-contrast physical CRT housings. Their simplified geometry,
+large lettering, transparent fields, and strong tonal separation are deliberate
+inputs for Omarchy's image-to-ASCII workflow rather than conventional
+wallpapers.
+
 The split governance diamond is original vector work. Its public ring and open
 lower share surround a filled upper control share with a small permission-gate
 notch. Thin orbit lines imply public infrastructure without turning the symbol

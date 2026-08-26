@@ -21,8 +21,8 @@ commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`.
 - PASS — Omarchy shell/bar rendered the active palette.
 - PASS — Root menu rendered readable normal, selected, and bordered states.
 - PASS — Notification card rendered readable text and gradient border.
-- PASS — Background image picker rendered all seven images and a clear selected
-  border.
+- PASS — Background image picker rendered all seven images, opened on the exact
+  current background, and displayed a clear selected border.
 - PASS — Foot rendered normal/bright ANSI colors, selection, and cursor states.
 - PASS — btop rendered CPU, memory, graph, meter, and box colors from the
   included theme.
@@ -64,7 +64,8 @@ which remained visually distinct in the live Foot sample.
 - PASS — Seven final backgrounds are 3840×2160 sRGB.
 - PASS — Seven textless masters are 3840×2160 sRGB.
 - PASS — Four ultrawide variants are 3440×1440 sRGB.
-- PASS — Screensaver sources are 1600×900.
+- PASS — Physical-CRT screensaver sources are transparent 1600×900 RGBA assets
+  and transcode through Omarchy's default image-to-ASCII command.
 - PASS — Social card is 1200×675.
 - PASS — All raster files decoded successfully.
 - PASS — No symlinks, executable files, code-bearing theme payloads, font

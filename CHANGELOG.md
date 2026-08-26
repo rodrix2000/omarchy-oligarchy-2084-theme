@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.1 — 2026-08-26
+
+- Completed a live UI/UX review across the Omarchy shell, menus, notifications,
+  background picker, terminals, browsers, lock preview, and all seven desktop
+  crops.
+- Reworked both optional screensaver sources as physical retro-CRT terminals so
+  the associated imagery follows the same diegetic-text rule as the wallpapers.
+- Revalidated contrast, current-background selection, generated theme files,
+  release assets, and remote installation behavior.
+
 ## 1.2.0 — 2026-08-26
 
 - Rebuilt the wallpaper copy as physical billboards, kiosks, CRTs, glass

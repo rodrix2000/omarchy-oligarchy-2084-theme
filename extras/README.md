@@ -5,7 +5,7 @@ theme. This directory contains non-executable extras and production records:
 
 - `textless-masters/` — clean scene masters before final typography
 - `ultrawide/` — four dedicated 3440×1440 alternatives
-- `screensavers/` — optional high-contrast image-to-ASCII source images
+- `screensavers/` — optional high-contrast physical-CRT image-to-ASCII sources
 - `social/` — 1200×675 contest/social card
 - `source/` — emblem and overlay SVGs, production manifest, prompts, and audit
   notes

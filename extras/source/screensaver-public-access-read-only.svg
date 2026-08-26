@@ -1,15 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#04060B"/>
-  <g fill="none" stroke="#243653" stroke-width="2" opacity="0.7">
-    <path d="M80 120H1520M80 450H1520M80 780H1520M240 60V840M800 60V840M1360 60V840"/>
-  </g>
-  <rect x="90" y="90" width="1420" height="720" rx="18" fill="none" stroke="#4BD6D2" stroke-width="6"/>
-  <g font-family="JetBrains Mono, monospace" font-weight="700">
-    <text x="150" y="250" fill="#EAF2F7" font-size="92" letter-spacing="3">PUBLIC ACCESS:</text>
-    <text x="150" y="370" fill="#9A77E8" font-size="118" letter-spacing="5">READ ONLY</text>
-    <line x1="150" y1="430" x2="1450" y2="430" stroke="#4BD6D2" stroke-width="6"/>
-    <text x="150" y="570" fill="#76D6A4" font-size="52">SYSTEM AVAILABLE</text>
-    <text x="150" y="670" fill="#F0626E" font-size="52">GOVERNANCE UNAVAILABLE</text>
-  </g>
-</svg>
+  <rect x="50" y="42" width="1500" height="816" rx="86" fill="none" stroke="#33425A" stroke-width="10"/>
+  <rect x="82" y="72" width="1436" height="690" rx="62" fill="none" stroke="#6F7F96" stroke-width="4"/>
+  <rect x="112" y="102" width="1376" height="630" rx="42" fill="none" stroke="#4BD6D2" stroke-width="4"/>
 
+  <g fill="#EAF2F7" opacity="0.72">
+    <circle cx="92" cy="82" r="7"/><circle cx="1508" cy="82" r="7"/>
+    <circle cx="92" cy="748" r="7"/><circle cx="1508" cy="748" r="7"/>
+  </g>
+
+  <g font-family="JetBrains Mono, monospace" font-weight="700">
+    <text x="170" y="176" fill="#4BD6D2" font-size="22" letter-spacing="4">PUBLIC INFORMATION TERMINAL // ACCESS MODE 03</text>
+    <line x1="170" y1="202" x2="1388" y2="202" stroke="#4BD6D2" stroke-width="3"/>
+
+    <text x="170" y="322" fill="#EAF2F7" font-size="82" letter-spacing="3">PUBLIC ACCESS</text>
+    <text x="170" y="436" fill="#9A77E8" font-size="108" letter-spacing="5">READ ONLY</text>
+
+    <text x="170" y="562" fill="#76D6A4" font-size="44" letter-spacing="2">SYSTEM</text>
+    <text x="520" y="562" fill="#76D6A4" font-size="44" letter-spacing="2">AVAILABLE</text>
+    <text x="170" y="650" fill="#6F7F96" font-size="44" letter-spacing="2">GOVERNANCE</text>
+    <text x="520" y="650" fill="#F0626E" font-size="44" letter-spacing="2">UNAVAILABLE</text>
+  </g>
+
+  <g transform="translate(1180 264)" fill="none">
+    <circle cx="100" cy="100" r="92" stroke="#243653" stroke-width="3"/>
+    <circle cx="100" cy="100" r="72" stroke="#6C8CFF" stroke-width="4"/>
+    <path d="M100 42 158 100 100 158 42 100Z" stroke="#9A77E8" stroke-width="6"/>
+    <path d="M100 42 158 100H42Z" fill="#4BD6D2" stroke="none"/>
+  </g>
+
+  <rect x="122" y="782" width="1010" height="36" rx="12" fill="none" stroke="#26334B" stroke-width="2"/>
+  <g stroke="#6F7F96" stroke-width="5" opacity="0.75">
+    <path d="M156 794V806M186 794V806M216 794V806M246 794V806M276 794V806M306 794V806M336 794V806M366 794V806M396 794V806M426 794V806"/>
+  </g>
+  <circle cx="1404" cy="800" r="12" fill="#E6B75A"/>
+  <circle cx="1452" cy="800" r="12" fill="#4BD6D2" opacity="0.55"/>
+</svg>

@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "theme": "Oligarchy 2084",
   "license": "CC-BY-4.0",
   "configuration_license": "MIT",
@@ -18,8 +18,8 @@
   ],
   "unlock":{"file":"unlock.png","size":[800,480],"mode":"RGBA","text":false,"source_viewbox":[1024,1024]},
   "screensavers":[
-    {"file":"extras/screensavers/public-access-read-only.png","size":[1600,900]},
-    {"file":"extras/screensavers/voice-received-policy-unchanged.png","size":[1600,900]}
+    {"file":"extras/screensavers/public-access-read-only.png","size":[1600,900],"mode":"RGBA","composition":"physical-terminal"},
+    {"file":"extras/screensavers/voice-received-policy-unchanged.png","size":[1600,900],"mode":"RGBA","composition":"physical-terminal"}
   ],
   "social":{"file":"extras/social/oligarchy-2084-social-1200x675.jpg","size":[1200,675],"derived_from":"backgrounds/01-privately-held.jpg"},
   "emblem_source":"extras/source/shareholder-republic-emblem.svg"

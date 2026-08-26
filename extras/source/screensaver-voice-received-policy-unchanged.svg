@@ -1,15 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#04060B"/>
-  <circle cx="1260" cy="450" r="250" fill="none" stroke="#243653" stroke-width="3"/>
-  <circle cx="1260" cy="450" r="180" fill="none" stroke="#6C8CFF" stroke-width="4"/>
-  <path d="M1260 320 1390 450 1260 580 1130 450Z" fill="none" stroke="#9A77E8" stroke-width="8"/>
-  <path d="M1260 320 1390 450H1130Z" fill="#4BD6D2"/>
-  <g font-family="JetBrains Mono, monospace" font-weight="700">
-    <text x="120" y="220" fill="#4BD6D2" font-size="76">VOICE RECEIVED</text>
-    <text x="120" y="340" fill="#76D6A4" font-size="76">METRIC UPDATED</text>
-    <text x="120" y="460" fill="#F0626E" font-size="76">POLICY UNCHANGED</text>
-    <line x1="120" y1="530" x2="970" y2="530" stroke="#33425A" stroke-width="5"/>
-    <text x="120" y="650" fill="#EAF2F7" font-size="44">THANK YOU FOR PARTICIPATING</text>
-  </g>
-</svg>
+  <rect x="50" y="42" width="1500" height="816" rx="86" fill="none" stroke="#33425A" stroke-width="10"/>
+  <rect x="82" y="72" width="1436" height="690" rx="62" fill="none" stroke="#6F7F96" stroke-width="4"/>
+  <rect x="112" y="102" width="1376" height="630" rx="42" fill="none" stroke="#6C8CFF" stroke-width="4"/>
 
+  <g fill="#EAF2F7" opacity="0.72">
+    <circle cx="92" cy="82" r="7"/><circle cx="1508" cy="82" r="7"/>
+    <circle cx="92" cy="748" r="7"/><circle cx="1508" cy="748" r="7"/>
+  </g>
+
+  <g font-family="JetBrains Mono, monospace" font-weight="700">
+    <text x="170" y="176" fill="#4BD6D2" font-size="22" letter-spacing="4">CIVIC RESPONSE TERMINAL // RECEIPT 2084</text>
+    <line x1="170" y1="202" x2="1388" y2="202" stroke="#4BD6D2" stroke-width="3"/>
+
+    <text x="170" y="312" fill="#4BD6D2" font-size="68" letter-spacing="3">VOICE RECEIVED</text>
+    <text x="170" y="416" fill="#76D6A4" font-size="68" letter-spacing="3">METRIC UPDATED</text>
+    <text x="170" y="520" fill="#F0626E" font-size="68" letter-spacing="3">POLICY UNCHANGED</text>
+    <line x1="170" y1="568" x2="930" y2="568" stroke="#33425A" stroke-width="4"/>
+    <text x="170" y="648" fill="#EAF2F7" font-size="36" letter-spacing="2">THANK YOU FOR PARTICIPATING.</text>
+  </g>
+
+  <g transform="translate(1080 246)" fill="none">
+    <circle cx="160" cy="160" r="148" stroke="#243653" stroke-width="4"/>
+    <circle cx="160" cy="160" r="112" stroke="#6C8CFF" stroke-width="5"/>
+    <path d="M160 74 246 160 160 246 74 160Z" stroke="#9A77E8" stroke-width="8"/>
+    <path d="M160 74 246 160H74Z" fill="#4BD6D2" stroke="none"/>
+    <path d="M22 178C80 102 240 94 300 158M28 130C112 226 224 232 306 180" stroke="#4BD6D2" stroke-width="3" opacity="0.55"/>
+  </g>
+
+  <rect x="122" y="782" width="1010" height="36" rx="12" fill="none" stroke="#26334B" stroke-width="2"/>
+  <g stroke="#6F7F96" stroke-width="5" opacity="0.75">
+    <path d="M156 794V806M186 794V806M216 794V806M246 794V806M276 794V806M306 794V806M336 794V806M366 794V806M396 794V806M426 794V806"/>
+  </g>
+  <circle cx="1404" cy="800" r="12" fill="#E6B75A"/>
+  <circle cx="1452" cy="800" r="12" fill="#E85AA8" opacity="0.55"/>
+</svg>

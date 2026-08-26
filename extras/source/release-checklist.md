@@ -10,12 +10,14 @@
 - [x] Four 3440×1440 ultrawide variants are present.
 - [x] Text-bearing images use deterministic, exact typography.
 - [x] Every slogan is integrated into a physical surface inside its scene.
+- [x] Optional screensaver messages are integrated into physical CRT terminals.
 - [x] Contest announcement reviewed on 2026-08-26: best attempt must be funny
   and good-looking enough to ship; deadline Friday, 2026-08-28; recipient
   `david@omarchy.org`.
 - [x] `preview.png` is a real Omarchy screenshot.
 - [x] `preview-unlock.png` was produced with the current Plymouth preview workflow.
 - [x] Contact sheet reflects all final backgrounds.
+- [x] Background picker opens on the actual current image with a clear selected state.
 - [x] README installation command uses the public repository.
 - [x] MIT and CC BY 4.0 licensing are final and scoped.
 - [x] No font binaries or executable theme payload are included.
