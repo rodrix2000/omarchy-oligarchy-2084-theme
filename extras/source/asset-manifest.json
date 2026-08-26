@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "theme": "Oligarchy 2084",
+  "license": "CC-BY-4.0",
+  "configuration_license": "MIT",
+  "scene_generation": "OpenAI built-in image generation tool",
+  "compositing": "Deterministic local raster and vector compositing",
+  "backgrounds": [
+    {"id":"01","slug":"privately-held","file":"backgrounds/01-privately-held.jpg","size":[3840,2160],"textless_master":true,"ultrawide":true},
+    {"id":"02","slug":"common-good","file":"backgrounds/02-common-good.jpg","size":[3840,2160],"textless_master":true,"ultrawide":true},
+    {"id":"03","slug":"public-access-read-only","file":"backgrounds/03-public-access-read-only.jpg","size":[3840,2160],"textless_master":true,"ultrawide":false},
+    {"id":"04","slug":"enterprise-citizenship","file":"backgrounds/04-enterprise-citizenship.jpg","size":[3840,2160],"textless_master":true,"ultrawide":false},
+    {"id":"05","slug":"open-source-closed-board","file":"backgrounds/05-open-source-closed-board.jpg","size":[3840,2160],"textless_master":true,"ultrawide":true},
+    {"id":"06","slug":"preferred-future","file":"backgrounds/06-preferred-future.jpg","size":[3840,2160],"textless_master":true,"ultrawide":false},
+    {"id":"07","slug":"annual-general-election","file":"backgrounds/07-annual-general-election.jpg","size":[3840,2160],"textless_master":true,"ultrawide":false},
+    {"id":"08","slug":"public-float-zero","file":"backgrounds/08-public-float-zero.jpg","size":[3840,2160],"textless_master":true,"ultrawide":true}
+  ],
+  "unlock":{"file":"unlock.png","size":[1024,1024],"mode":"RGBA","text":false},
+  "screensavers":[
+    {"file":"extras/screensavers/public-access-read-only.png","size":[1600,900]},
+    {"file":"extras/screensavers/voice-received-policy-unchanged.png","size":[1600,900]}
+  ],
+  "social":{"file":"extras/social/oligarchy-2084-social-1200x675.jpg","size":[1200,675]},
+  "emblem_source":"extras/source/shareholder-republic-emblem.svg"
+}
+

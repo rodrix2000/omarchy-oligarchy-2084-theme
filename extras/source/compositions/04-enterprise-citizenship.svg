@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <g font-family="Noto Sans, sans-serif">
+    <rect x="190" y="240" width="1420" height="1190" rx="34" fill="#070A12" fill-opacity="0.86" stroke="#6C8CFF" stroke-opacity="0.62" stroke-width="4"/>
+    <text x="280" y="365" fill="#4BD6D2" font-size="31" font-weight="700" letter-spacing="7">CIVIC ENROLLMENT // ACCESS CLASS</text>
+    <text x="280" y="590" fill="#EAF2F7" font-size="104" font-weight="800" letter-spacing="4">CITIZENSHIP</text>
+    <text x="280" y="720" fill="#4BD6D2" font-size="104" font-weight="800" letter-spacing="5">IS FREE.</text>
+    <text x="280" y="860" fill="#EAF2F7" font-size="60" font-weight="600" letter-spacing="2">GOVERNANCE REQUIRES</text>
+    <text x="280" y="960" fill="#E6B75A" font-size="80" font-weight="800" letter-spacing="5">ENTERPRISE.</text>
+    <line x1="280" y1="1045" x2="1490" y2="1045" stroke="#33425A" stroke-width="3"/>
+    <g font-family="JetBrains Mono, monospace" font-size="29" letter-spacing="2">
+      <text x="280" y="1135" fill="#4BD6D2">PUBLIC</text><text x="820" y="1135" fill="#A7B5C5">SERVICES</text>
+      <text x="280" y="1210" fill="#9A77E8">STAKEHOLDER</text><text x="820" y="1210" fill="#A7B5C5">PRIORITY</text>
+      <text x="280" y="1285" fill="#E6B75A">CONTROLLING</text><text x="820" y="1285" fill="#EAF2F7">GOVERNANCE</text>
+    </g>
+  </g>
+</svg>
+

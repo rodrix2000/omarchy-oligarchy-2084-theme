@@ -1,0 +1,39 @@
+# Oligarchy 2084 — Shareholder Republic
+# Premium corporate retro-futurism with an ownership/access hierarchy.
+mode = "dark"
+
+accent = "#4BD6D2"
+selection = "#243653"
+muted = "#6F7F96"
+
+background = "#070A12"
+dark_background = "#04060B"
+darker_background = "#020308"
+lighter_background = "#151F33"
+
+foreground = "#EAF2F7"
+dark_foreground = "#6F7F96"
+light_foreground = "#F5F8FA"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgba(4BD6D2ee) rgba(9A77E8ee) 45deg"
+hyprland_inactive_border = "rgba(6F7F9666)"
+active_border_color = "#4BD6D2"
+active_tab_background = "#243653"
+
+red = "#F0626E"
+yellow = "#E6B75A"
+orange = "#E78A61"
+green = "#76D6A4"
+cyan = "#4BD6D2"
+blue = "#6C8CFF"
+magenta = "#E85AA8"
+brown = "#A27C87"
+
+bright_red = "#FF7B85"
+bright_yellow = "#F3CD7D"
+bright_green = "#9BE4BD"
+bright_cyan = "#79E6E2"
+bright_blue = "#91A8FF"
+bright_magenta = "#F07FC0"
+

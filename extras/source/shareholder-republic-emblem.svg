@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Shareholder Republic split governance diamond</title>
+  <desc id="desc">A public circular system surrounds a split diamond with an open lower share and a filled upper controlling share.</desc>
+  <defs>
+    <linearGradient id="control" x1="320" y1="300" x2="704" y2="580" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4BD6D2"/>
+      <stop offset="0.55" stop-color="#6C8CFF"/>
+      <stop offset="1" stop-color="#9A77E8"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="128" y1="512" x2="896" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4BD6D2" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#4BD6D2" stop-opacity="0.75"/>
+      <stop offset="0.75" stop-color="#9A77E8" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#9A77E8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="512" cy="512" rx="388" ry="176" transform="rotate(-14 512 512)" stroke="url(#orbit)" stroke-width="6"/>
+    <ellipse cx="512" cy="512" rx="352" ry="128" transform="rotate(22 512 512)" stroke="url(#orbit)" stroke-width="3" opacity="0.7"/>
+    <circle cx="512" cy="512" r="310" stroke="#EAF2F7" stroke-width="18" opacity="0.92"/>
+    <circle cx="512" cy="512" r="277" stroke="#4BD6D2" stroke-width="3" opacity="0.42"/>
+  </g>
+  <path d="M512 296 704 488 656 536H368l-48-48Z" fill="url(#control)" filter="url(#soft-glow)"/>
+  <path d="M368 552h288l48 48-192 192-192-192Z" fill="none" stroke="#EAF2F7" stroke-width="22" stroke-linejoin="round"/>
+  <path d="M608 552h48l48 48-32 32-64-64Z" fill="#070A12"/>
+  <path d="M344 536h336" stroke="#04060B" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="180" cy="428" r="9" fill="#4BD6D2"/>
+  <circle cx="829" cy="621" r="7" fill="#9A77E8"/>
+  <circle cx="742" cy="259" r="6" fill="#E6B75A"/>
+</svg>
+

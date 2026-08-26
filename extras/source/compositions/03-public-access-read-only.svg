@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <g font-family="Noto Sans, sans-serif">
+    <text x="240" y="350" fill="#4BD6D2" font-size="32" font-weight="700" letter-spacing="8">SHAREHOLDER REPUBLIC // ACCESS LAYER</text>
+    <text x="240" y="700" fill="#EAF2F7" font-size="126" font-weight="800" letter-spacing="8">PUBLIC ACCESS</text>
+    <text x="240" y="875" fill="#9A77E8" font-size="152" font-weight="800" letter-spacing="12">READ ONLY</text>
+    <rect x="240" y="955" width="1100" height="4" fill="#4BD6D2"/>
+    <text x="240" y="1065" fill="#9AA9BA" font-size="38" letter-spacing="2">Participation does not imply control.</text>
+    <g transform="translate(240 1240)" font-family="JetBrains Mono, monospace" font-size="27" letter-spacing="2">
+      <rect width="1040" height="180" rx="18" fill="#0E1524" fill-opacity="0.72" stroke="#33425A" stroke-width="3"/>
+      <text x="48" y="70" fill="#6F7F96">PERMISSION</text><text x="570" y="70" fill="#6F7F96">PUBLIC</text><text x="830" y="70" fill="#6F7F96">CONTROL</text>
+      <text x="48" y="130" fill="#EAF2F7">GOVERNANCE</text><text x="570" y="130" fill="#F0626E">DENIED</text><text x="830" y="130" fill="#76D6A4">ACTIVE</text>
+    </g>
+  </g>
+</svg>
+

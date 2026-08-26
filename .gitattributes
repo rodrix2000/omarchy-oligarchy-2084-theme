@@ -1,0 +1,7 @@
+*.jpg binary
+*.png binary
+*.svg text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.theme text eol=lf
+

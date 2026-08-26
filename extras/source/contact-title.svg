@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#04060B"/><stop offset="1" stop-color="#151F33"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <g transform="translate(120 105)">
+    <circle cx="90" cy="90" r="78" fill="none" stroke="#EAF2F7" stroke-width="8"/>
+    <circle cx="90" cy="90" r="68" fill="none" stroke="#4BD6D2" stroke-width="2" opacity="0.6"/>
+    <path d="M90 32 145 87H35Z" fill="#4BD6D2"/>
+    <path d="M35 101h110L90 156Z" fill="none" stroke="#9A77E8" stroke-width="8"/>
+  </g>
+  <g font-family="Noto Sans, sans-serif">
+    <text x="120" y="365" fill="#4BD6D2" font-size="28" font-weight="700" letter-spacing="7">SHAREHOLDER REPUBLIC</text>
+    <text x="120" y="470" fill="#EAF2F7" font-size="86" font-weight="800" letter-spacing="4">OLIGARCHY 2084</text>
+    <text x="120" y="545" fill="#9A77E8" font-size="34" font-weight="600" letter-spacing="2">THE FUTURE IS PRIVATELY HELD.</text>
+    <text x="120" y="615" fill="#6F7F96" font-size="25" letter-spacing="1">Eight public views. One controlling interest.</text>
+  </g>
+</svg>
+

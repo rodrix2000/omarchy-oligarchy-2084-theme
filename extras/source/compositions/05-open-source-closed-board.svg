@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <g font-family="Noto Sans, sans-serif">
+    <text x="230" y="350" fill="#4BD6D2" font-size="32" font-weight="700" letter-spacing="8">SHAREHOLDER REPUBLIC // REPOSITORY SERVICES</text>
+    <text x="230" y="650" fill="#EAF2F7" font-size="118" font-weight="800" letter-spacing="6">OPEN SOURCE.</text>
+    <text x="230" y="805" fill="#E85AA8" font-size="118" font-weight="800" letter-spacing="6">CLOSED BOARD.</text>
+    <g transform="translate(230 960)" font-family="JetBrains Mono, monospace" font-size="29" letter-spacing="2">
+      <rect width="1200" height="430" rx="22" fill="#070A12" fill-opacity="0.78" stroke="#33425A" stroke-width="3"/>
+      <text x="52" y="70" fill="#6F7F96">PERMISSION</text><text x="800" y="70" fill="#6F7F96">ACCESS CLASS</text>
+      <line x1="50" y1="105" x2="1150" y2="105" stroke="#33425A" stroke-width="2"/>
+      <text x="52" y="170" fill="#EAF2F7">READ</text><text x="800" y="170" fill="#4BD6D2">PUBLIC</text>
+      <text x="52" y="235" fill="#EAF2F7">CONTRIBUTE</text><text x="800" y="235" fill="#4BD6D2">PUBLIC</text>
+      <text x="52" y="300" fill="#EAF2F7">MERGE</text><text x="800" y="300" fill="#9A77E8">PREFERRED</text>
+      <text x="52" y="365" fill="#EAF2F7">GOVERN</text><text x="800" y="365" fill="#E6B75A">CONTROLLING</text>
+    </g>
+  </g>
+</svg>
+

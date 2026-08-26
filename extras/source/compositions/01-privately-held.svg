@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <g font-family="Noto Sans, sans-serif">
+    <rect x="190" y="250" width="12" height="980" rx="6" fill="#4BD6D2"/>
+    <text x="260" y="360" fill="#4BD6D2" font-size="34" font-weight="700" letter-spacing="8">SHAREHOLDER REPUBLIC</text>
+    <text x="260" y="610" fill="#EAF2F7" font-size="146" font-weight="800" letter-spacing="7">OLIGARCHY</text>
+    <text x="260" y="770" fill="#9A77E8" font-size="146" font-weight="800" letter-spacing="18">2084</text>
+    <line x1="260" y1="865" x2="1180" y2="865" stroke="#6C8CFF" stroke-width="5"/>
+    <text x="260" y="980" fill="#EAF2F7" font-size="58" font-weight="600" letter-spacing="3">THE FUTURE IS</text>
+    <text x="260" y="1065" fill="#4BD6D2" font-size="58" font-weight="700" letter-spacing="3">PRIVATELY HELD.</text>
+    <text x="260" y="1195" fill="#9AA9BA" font-size="30" letter-spacing="1">Public access does not constitute governance rights.</text>
+    <g transform="translate(260 1350)">
+      <circle cx="40" cy="40" r="34" fill="none" stroke="#EAF2F7" stroke-width="4"/>
+      <path d="M40 14 63 37H17Z" fill="#4BD6D2"/>
+      <path d="M17 45h46L40 68Z" fill="none" stroke="#9A77E8" stroke-width="4"/>
+      <text x="100" y="51" fill="#6F7F96" font-size="26" font-family="JetBrains Mono, monospace" letter-spacing="2">PUBLIC SYSTEM // CONTROLLED INTEREST</text>
+    </g>
+  </g>
+</svg>
+
