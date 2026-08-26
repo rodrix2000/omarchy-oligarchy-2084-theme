@@ -57,14 +57,6 @@ subtle private access bridge above public concourse; premium 1970s transit
 advertising mood, cyan and blue evening light with sparse warm amber; open
 display and calm left region.
 
-## 07 — Annual General Election
-
-Premium abstract shareholder-resolution display installed in a bright civic
-atrium; three elegant blank decision panels, proportional ownership bars as
-pure geometry, no recognizable ballot or government seal; polished corporate
-futurism, cool navy, chrome, cyan, violet and restrained amber; sophisticated,
-calm, useful negative space.
-
 ## 08 — Public Float: 0.00%
 
 Minimal planetary city-network composition in deep indigo; elegant central
@@ -107,3 +99,38 @@ indicator lamps, and paper-feed slots; route public conduits into the sealed
 board chamber and one amber authorization point. Use cold public
 infrastructure, warm private control, analog grain, registration drift, and
 gentle phosphor bloom.
+
+## 1.2 scene-edit prompts
+
+The built-in OpenAI image-generation tool edited three more text-free masters.
+The supplied screenshot of `06 — Preferred Future` was used as the material
+reference: propaganda belongs on a convincing object in the scene, never as a
+floating poster layer. Exact wording was still added later through the SVG
+overlays so every letter remains intentional and reproducible.
+
+### 01 — Privately Held
+
+Preserve the blue-hour civic arcology, tower, transit, gardens, and broad
+negative sky. Add one large, blank, front-facing municipal advertising display
+on a sculptural chrome pedestal in the lower-left plaza. Match the scene's
+lighting, reflections, scale, and 1970s corporate-futurist construction. The
+display must feel permanent and architectural, with no generated writing,
+symbols, logos, or interface marks.
+
+### 03 — Public Access: Read Only
+
+Transform the abstract network composition into a wall-sized curved CRT
+mainframe monitor in a dark late-1970s control room. Keep the luminous public
+network sphere on the large screen and add a smaller blank CRT terminal on the
+left for the deterministic message. Use heavy molded bezels, vents, phosphor
+bloom, subtle scan lines, and analog industrial materials; include no generated
+text, numbers, logos, or watermarks.
+
+### 08 — Public Float: 0.00%
+
+Transform the planetary network into a dark 1970s ownership-registry
+observatory. Preserve the violet-blue orbital model as a physical illuminated
+table on the right and add a blank angled instrument plaque in the lower-left
+foreground. Use smoked glass, machined chrome, physical switches, restrained
+amber lamps, analog grain, and cinematic low light; include no generated text,
+numbers, logos, or watermarks.

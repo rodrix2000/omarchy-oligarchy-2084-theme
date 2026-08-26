@@ -1,20 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
   <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151f33" stop-opacity=".94"/><stop offset="1" stop-color="#070a12" stop-opacity=".78"/></linearGradient>
     <style>
       .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:4px}
       .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:2px}
     </style>
-    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#eaf2f7" opacity=".13"/></pattern>
   </defs>
-  <rect width="3840" height="2160" fill="url(#scan)" opacity=".08"/>
-  <text class="mono" x="246" y="360" font-size="22" fill="#4bd6d2">ENTERPRISE CITIZENSHIP // SERVICE HALL 04</text>
-  <text class="mono" x="246" y="410" font-size="18" fill="#a8b5c6">ENROLLMENT: COMPLIMENTARY // CONTROL: OWNERSHIP-GATED</text>
-  <g text-anchor="middle">
-    <text class="mono" x="1830" y="510" font-size="19" fill="#4bd6d2">CIVIC CLASS // PUBLIC</text>
-    <text class="display" x="1830" y="568" font-size="42" fill="#eaf2f7">ACCESS OPEN</text>
-    <text class="mono" x="2420" y="460" font-size="19" fill="#6c8cff">CIVIC CLASS // PREFERRED</text>
-    <text class="display" x="2420" y="518" font-size="42" fill="#eaf2f7">OWNERSHIP VERIFIED</text>
-    <text class="mono" x="3210" y="372" font-size="19" fill="#e6b75a">CIVIC CLASS // CONTROLLING</text>
-    <text class="display" x="3210" y="430" font-size="42" fill="#eaf2f7">GOVERNANCE ACTIVE</text>
+  <g transform="translate(220 510)">
+    <rect width="1090" height="560" rx="24" fill="url(#glass)" stroke="#6c8cff" stroke-width="3" opacity=".94"/>
+    <rect x="24" y="24" width="1042" height="512" rx="16" fill="none" stroke="#4bd6d2" stroke-width="1.5" opacity=".45"/>
+    <g fill="#a8b5c6"><circle cx="42" cy="42" r="7"/><circle cx="1048" cy="42" r="7"/><circle cx="42" cy="518" r="7"/><circle cx="1048" cy="518" r="7"/></g>
+    <text class="mono" x="72" y="88" font-size="19" fill="#4bd6d2">CIVIC ENROLLMENT // ACCESS CLASSES</text>
+    <rect x="72" y="120" width="850" height="3" fill="#4bd6d2"/>
+    <text class="display" x="72" y="225" font-size="72" fill="#eaf2f7">CITIZENSHIP IS FREE.</text>
+    <text class="display" x="68" y="322" font-size="76" fill="#4bd6d2" opacity=".34">INFLUENCE REQUIRES</text>
+    <text class="display" x="72" y="318" font-size="76" fill="#9a77e8">INFLUENCE REQUIRES</text>
+    <text class="display" x="72" y="402" font-size="76" fill="#e6b75a">EQUITY.</text>
+    <text class="mono" x="72" y="478" font-size="17" fill="#a8b5c6">PUBLIC // PREFERRED // CONTROLLING</text>
   </g>
 </svg>

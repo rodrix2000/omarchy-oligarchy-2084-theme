@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.0 — 2026-08-26
+
+- Rebuilt the wallpaper copy as physical billboards, kiosks, CRTs, glass
+  directories, and instrument panels inside every scene.
+- Sharpened the Shareholder Republic satire around ownership, access, equity,
+  board control, pre-approved futures, and voting rights.
+- Replaced three scene masters to support stronger environmental storytelling.
+- Removed the Annual General Election background and tightened the rotation to
+  seven distinct concepts.
+- Rebuilt the contact sheet, social card, and ultrawide derivatives.
+
 ## 1.1.0 — 2026-08-26
 
 - Rebalanced the set into four slogan-led and four diegetic wallpapers.

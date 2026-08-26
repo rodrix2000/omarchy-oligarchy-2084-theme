@@ -6,12 +6,12 @@ Nimbus Sans Narrow provides the condensed institutional display face and
 JetBrains Mono provides system labels. Each background keeps essential text
 outside the outer 5% margin and reserves a low-detail area for tiled windows.
 
-The eight-image rotation is intentionally split. `01`, `03`, `06`, and `07`
-are public-facing campaign communications. `02`, `04`, `05`, and `08` keep
-their copy inside kiosks, wayfinding, infrastructure, or ledger graphics. Fine
-scan lines, phosphor bloom, print grain, and slight registration drift carry
-the late-1970s/early-1980s retro-science-fiction language without sacrificing
-desktop legibility.
+The seven-image rotation uses one rule throughout: every message belongs to a
+physical object inside the fiction. Copy appears on a civic billboard, service
+kiosk, CRT terminal, glass directory, board-control panel, transit display, or
+ownership-registry instrument. Fine scan lines, phosphor bloom, print grain,
+and slight registration drift carry the late-1970s/early-1980s
+retro-science-fiction language without sacrificing desktop legibility.
 
 The final raster exports are sRGB JPEGs at 3840×2160. Textless masters use the
 same dimensions. Dedicated ultrawide variants are 3440×1440 and are cropped or

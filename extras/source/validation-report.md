@@ -8,7 +8,7 @@ commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`.
 - PASS — Installed from the public GitHub URL with `omarchy theme install`.
 - PASS — Repository name resolved to the expected slug `oligarchy-2084`.
 - PASS — Theme activated as `Oligarchy 2084`.
-- PASS — Eight backgrounds staged and cycled in filename order; the live
+- PASS — Seven backgrounds staged and cycled in filename order; the live
   desktop was left on `Preferred Future` for the unobstructed preview layout.
 - PASS — Hand-written `colors.toml`, `btop.theme`, `chromium.theme`,
   `icons.theme`, and `keyboard.rgb` survived remote-theme staging.
@@ -21,7 +21,7 @@ commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`.
 - PASS — Omarchy shell/bar rendered the active palette.
 - PASS — Root menu rendered readable normal, selected, and bordered states.
 - PASS — Notification card rendered readable text and gradient border.
-- PASS — Background image picker rendered all eight images and a clear selected
+- PASS — Background image picker rendered all seven images and a clear selected
   border.
 - PASS — Foot rendered normal/bright ANSI colors, selection, and cursor states.
 - PASS — btop rendered CPU, memory, graph, meter, and box colors from the
@@ -61,8 +61,8 @@ which remained visually distinct in the live Foot sample.
 
 ## Asset and safety checks
 
-- PASS — Eight final backgrounds are 3840×2160 sRGB.
-- PASS — Eight textless masters are 3840×2160 sRGB.
+- PASS — Seven final backgrounds are 3840×2160 sRGB.
+- PASS — Seven textless masters are 3840×2160 sRGB.
 - PASS — Four ultrawide variants are 3440×1440 sRGB.
 - PASS — Screensaver sources are 1600×900.
 - PASS — Social card is 1200×675.

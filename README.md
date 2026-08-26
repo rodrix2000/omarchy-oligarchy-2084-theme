@@ -8,13 +8,13 @@ cyan, signal blue, preferred violet, and restrained magenta with a fictional
 Shareholder Republic where the public gets the platform and ownership retains
 the permissions.
 
-Its eight wallpapers alternate between immaculate campaign promises and the
-quiet machinery behind them: four slogan-led public communications, four
-diegetic institutional scenes. The joke is dry, but the desktop remains usable.
+Its seven wallpapers turn immaculate campaign promises into objects inside the
+world: billboards, kiosks, CRTs, glass directories, and ownership terminals.
+The joke is dry, the institutions are smiling, and the desktop remains usable.
 
 ![Oligarchy 2084 desktop preview](preview.png)
 
-![The eight Oligarchy 2084 backgrounds](backgrounds.jpg)
+![The seven Oligarchy 2084 backgrounds](backgrounds.jpg)
 
 ## Install
 
@@ -26,7 +26,7 @@ The repository name resolves to the installed theme slug `oligarchy-2084`.
 
 ## Included
 
-- Eight coordinated 4K backgrounds: four campaign-led, four diegetic
+- Seven coordinated 4K backgrounds with fully diegetic propaganda displays
 - Semantic colors for supported Omarchy surfaces and applications
 - Matching btop, Chromium, icon, and keyboard-color files
 - Transparent ownership/access unlock emblem
@@ -67,7 +67,6 @@ files provide deliberate application-specific finishing.
 | `04-enterprise-citizenship.jpg` | Civic access tiers presented as enterprise enrollment |
 | `05-open-source-closed-board.jpg` | Public code with ownership-gated merge control |
 | `06-preferred-future.jpg` | A transit future already approved on the public's behalf |
-| `07-annual-general-election.jpg` | A shareholder resolution dressed as civic participation |
 | `08-public-float-zero.jpg` | A visible public system with no public control |
 
 Ultrawide alternatives, screensaver sources, text-free masters, editable SVG

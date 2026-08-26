@@ -6,10 +6,10 @@
 - [x] Theme slug resolves to `oligarchy-2084`.
 - [x] `colors.toml` parses and renders correctly.
 - [x] Applicable installed applications and shell surfaces were checked.
-- [x] Eight final 4K backgrounds are present.
+- [x] Seven final 4K backgrounds are present.
 - [x] Four 3440×1440 ultrawide variants are present.
 - [x] Text-bearing images use deterministic, exact typography.
-- [x] Four campaign-led and four diegetic backgrounds avoid repetitive copy.
+- [x] Every slogan is integrated into a physical surface inside its scene.
 - [x] Contest announcement reviewed on 2026-08-26: best attempt must be funny
   and good-looking enough to ship; deadline Friday, 2026-08-28; recipient
   `david@omarchy.org`.

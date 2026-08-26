@@ -2,23 +2,22 @@
   <defs>
     <style>
       .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:3px}
-      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:2px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:1px}
     </style>
-    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#eaf2f7" opacity=".14"/></pattern>
+    <pattern id="scan" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="1" fill="#eaf2f7" opacity=".12"/></pattern>
   </defs>
-  <rect width="3840" height="2160" fill="url(#scan)" opacity=".08"/>
   <g transform="translate(528 1306)">
-    <rect width="402" height="516" rx="34" fill="#070a12" opacity=".80" stroke="#4bd6d2" stroke-width="3"/>
-    <rect x="24" y="24" width="354" height="468" rx="20" fill="none" stroke="#6c8cff" stroke-width="2" opacity=".65"/>
-    <text class="mono" x="48" y="76" font-size="18" fill="#4bd6d2">CIVIC SERVICES // 02</text>
-    <text class="display" x="46" y="168" font-size="70" fill="#eaf2f7">COMMON</text>
-    <text class="display" x="46" y="240" font-size="76" fill="#9a77e8">GOOD™</text>
-    <rect x="48" y="274" width="300" height="2" fill="#4bd6d2"/>
-    <text class="mono" x="48" y="320" font-size="16" fill="#eaf2f7">AVAILABLE TO ELIGIBLE</text>
-    <text class="mono" x="48" y="348" font-size="16" fill="#eaf2f7">STAKEHOLDERS</text>
-    <text class="mono" x="48" y="410" font-size="14" fill="#6f7f96">PUBLIC ACCESS</text>
-    <text class="mono" x="276" y="410" font-size="14" fill="#76d6a4">ENABLED</text>
-    <text class="mono" x="48" y="446" font-size="14" fill="#6f7f96">GOVERNANCE</text>
-    <text class="mono" x="278" y="446" font-size="14" fill="#e6b75a">PREFERRED</text>
+    <rect width="402" height="516" rx="34" fill="#070a12" opacity=".86"/>
+    <rect x="24" y="24" width="354" height="468" rx="20" fill="url(#scan)" opacity=".24" stroke="#4bd6d2" stroke-width="2"/>
+    <text class="mono" x="48" y="74" font-size="16" fill="#4bd6d2">CIVIC SERVICES // 02</text>
+    <text class="display" x="46" y="160" font-size="66" fill="#eaf2f7">COMMON</text>
+    <text class="display" x="46" y="232" font-size="74" fill="#9a77e8">GOOD™</text>
+    <rect x="48" y="264" width="300" height="2" fill="#4bd6d2"/>
+    <text class="mono" x="48" y="308" font-size="15" fill="#eaf2f7">NOW AVAILABLE TO</text>
+    <text class="mono" x="48" y="336" font-size="15" fill="#eaf2f7">QUALIFIED OWNERS.</text>
+    <text class="mono" x="48" y="402" font-size="13" fill="#6f7f96">PUBLIC ACCESS</text>
+    <text class="mono" x="236" y="402" font-size="13" fill="#76d6a4">COMPLIMENTARY</text>
+    <text class="mono" x="48" y="442" font-size="13" fill="#6f7f96">GOVERNANCE</text>
+    <text class="mono" x="236" y="442" font-size="13" fill="#e6b75a">SOLD SEPARATELY</text>
   </g>
 </svg>

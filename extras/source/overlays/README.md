@@ -5,6 +5,7 @@ composited over the text-free scene masters. They are designed at 3840×2160
 and use Nimbus Sans Narrow for institutional display copy plus JetBrains Mono
 for system labels.
 
-Four wallpapers are campaign-led (`01`, `03`, `06`, `07`). The other four
-keep their copy diegetic and restrained (`02`, `04`, `05`, `08`) so the set
-does not read as eight repetitions of the same poster.
+All seven wallpapers keep their copy diegetic: the typography is confined to a
+billboard, kiosk, CRT, mounted directory, control panel, transit display, or
+registry instrument. The propaganda voice remains consistent without reading
+as seven copies of the same poster.

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "theme": "Oligarchy 2084",
   "license": "CC-BY-4.0",
   "configuration_license": "MIT",
@@ -8,20 +8,19 @@
   "display_font": "Nimbus Sans Narrow",
   "system_font": "JetBrains Mono",
   "backgrounds": [
-    {"id":"01","slug":"privately-held","file":"backgrounds/01-privately-held.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/01-privately-held.svg","copy_mode":"campaign","ultrawide":true},
-    {"id":"02","slug":"common-good","file":"backgrounds/02-common-good.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/02-common-good.svg","copy_mode":"diegetic","ultrawide":true},
-    {"id":"03","slug":"public-access-read-only","file":"backgrounds/03-public-access-read-only.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/03-public-access-read-only.svg","copy_mode":"campaign","ultrawide":false},
-    {"id":"04","slug":"enterprise-citizenship","file":"backgrounds/04-enterprise-citizenship.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/04-enterprise-citizenship.svg","copy_mode":"diegetic","ultrawide":false},
-    {"id":"05","slug":"open-source-closed-board","file":"backgrounds/05-open-source-closed-board.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/05-open-source-closed-board.svg","copy_mode":"diegetic","ultrawide":true},
-    {"id":"06","slug":"preferred-future","file":"backgrounds/06-preferred-future.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/06-preferred-future.svg","copy_mode":"campaign","ultrawide":false},
-    {"id":"07","slug":"annual-general-election","file":"backgrounds/07-annual-general-election.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/07-annual-general-election.svg","copy_mode":"campaign","ultrawide":false},
-    {"id":"08","slug":"public-float-zero","file":"backgrounds/08-public-float-zero.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/08-public-float-zero.svg","copy_mode":"diegetic","ultrawide":true}
+    {"id":"01","slug":"privately-held","file":"backgrounds/01-privately-held.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/01-privately-held.svg","copy_mode":"physical-surface","ultrawide":true},
+    {"id":"02","slug":"common-good","file":"backgrounds/02-common-good.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/02-common-good.svg","copy_mode":"physical-surface","ultrawide":true},
+    {"id":"03","slug":"public-access-read-only","file":"backgrounds/03-public-access-read-only.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/03-public-access-read-only.svg","copy_mode":"physical-surface","ultrawide":false},
+    {"id":"04","slug":"enterprise-citizenship","file":"backgrounds/04-enterprise-citizenship.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/04-enterprise-citizenship.svg","copy_mode":"physical-surface","ultrawide":false},
+    {"id":"05","slug":"open-source-closed-board","file":"backgrounds/05-open-source-closed-board.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/05-open-source-closed-board.svg","copy_mode":"physical-surface","ultrawide":true},
+    {"id":"06","slug":"preferred-future","file":"backgrounds/06-preferred-future.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/06-preferred-future.svg","copy_mode":"physical-surface","ultrawide":false},
+    {"id":"08","slug":"public-float-zero","file":"backgrounds/08-public-float-zero.jpg","size":[3840,2160],"textless_master":true,"overlay":"extras/source/overlays/08-public-float-zero.svg","copy_mode":"physical-surface","ultrawide":true}
   ],
   "unlock":{"file":"unlock.png","size":[800,480],"mode":"RGBA","text":false,"source_viewbox":[1024,1024]},
   "screensavers":[
     {"file":"extras/screensavers/public-access-read-only.png","size":[1600,900]},
     {"file":"extras/screensavers/voice-received-policy-unchanged.png","size":[1600,900]}
   ],
-  "social":{"file":"extras/social/oligarchy-2084-social-1200x675.jpg","size":[1200,675],"overlay":"extras/source/social-card.svg"},
+  "social":{"file":"extras/social/oligarchy-2084-social-1200x675.jpg","size":[1200,675],"derived_from":"backgrounds/01-privately-held.jpg"},
   "emblem_source":"extras/source/shareholder-republic-emblem.svg"
 }

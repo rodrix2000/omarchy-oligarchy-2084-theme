@@ -1,21 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
   <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070a12" stop-opacity=".88"/><stop offset="1" stop-color="#151f33" stop-opacity=".72"/></linearGradient>
     <style>
-      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:5px}
-      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:3px}
+      .display{font-family:'Nimbus Sans Narrow',sans-serif;font-weight:700;letter-spacing:4px}
+      .mono{font-family:'JetBrains Mono',monospace;font-weight:600;letter-spacing:2px}
     </style>
-    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#eaf2f7" opacity=".16"/></pattern>
   </defs>
-  <rect width="3840" height="2160" fill="url(#scan)" opacity=".10"/>
-  <g transform="translate(250 1110)">
-    <text class="mono" x="0" y="32" font-size="18" fill="#4bd6d2">REPOSITORY SERVICES // PUBLIC</text>
-    <path d="M0 54h820" stroke="#4bd6d2" stroke-width="2" opacity=".72"/>
-    <text class="display" x="0" y="100" font-size="34" fill="#eaf2f7">SOURCE ACCESS: OPEN</text>
-  </g>
-  <g transform="translate(2510 620)">
-    <path d="M0 0v236" stroke="#9a77e8" stroke-width="4"/>
-    <text class="mono" x="38" y="38" font-size="18" fill="#9a77e8">MERGE AUTHORITY // BOARD</text>
-    <text class="display" x="38" y="128" font-size="76" fill="#eaf2f7">ACCESS</text>
-    <text class="display" x="38" y="206" font-size="76" fill="#e85aa8">CLOSED</text>
+  <g transform="translate(2485 640)">
+    <rect width="810" height="390" rx="22" fill="url(#glass)" stroke="#9a77e8" stroke-width="3" opacity=".92"/>
+    <rect x="22" y="22" width="766" height="346" rx="14" fill="none" stroke="#4bd6d2" stroke-width="1.5" opacity=".45"/>
+    <g fill="#a8b5c6"><circle cx="40" cy="40" r="6"/><circle cx="770" cy="40" r="6"/><circle cx="40" cy="350" r="6"/><circle cx="770" cy="350" r="6"/></g>
+    <text class="mono" x="60" y="76" font-size="18" fill="#9a77e8">REPOSITORY CONTROL // BOARD TERMINAL</text>
+    <text class="display" x="60" y="172" font-size="68" fill="#4bd6d2">SOURCE: OPEN</text>
+    <text class="display" x="60" y="252" font-size="68" fill="#e85aa8">BOARD: CLOSED</text>
+    <text class="mono" x="60" y="314" font-size="16" fill="#eaf2f7">CONTRIBUTIONS WELCOME.</text>
+    <text class="mono" x="60" y="344" font-size="16" fill="#e6b75a">CONTROL RETAINED.</text>
   </g>
 </svg>
