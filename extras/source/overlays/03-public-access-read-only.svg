@@ -16,6 +16,6 @@
     <text class="display" x="246" y="1645" font-size="68" fill="#4bd6d2" opacity=".34">READ ONLY</text>
     <text class="display" x="250" y="1641" font-size="68" fill="#9a77e8">READ ONLY</text>
     <text class="mono" x="250" y="1712" font-size="16" fill="#eaf2f7">YOUR VOICE WAS RECORDED.</text>
-    <text class="mono" x="250" y="1750" font-size="16" fill="#e6b75a">NO CHANGES WERE REQUIRED.</text>
+    <text class="mono" x="250" y="1750" font-size="16" fill="#e6b75a">THE DECISION WAS PRE-RECORDED.</text>
   </g>
 </svg>

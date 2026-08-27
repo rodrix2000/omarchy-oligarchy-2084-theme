@@ -13,6 +13,13 @@ ownership-registry instrument. Fine scan lines, phosphor bloom, print grain,
 and slight registration drift carry the late-1970s/early-1980s
 retro-science-fiction language without sacrificing desktop legibility.
 
+The campaign voice follows a matching satirical rule: an optimistic public
+promise is answered by short, polite fine print that reveals who actually owns
+the outcome. The institutions never acknowledge the joke; their confidence is
+what makes the copy funny. Headlines remain brief enough to survive the live
+desktop crop, while the bureaucratic reversal sits one level lower in the
+display hierarchy.
+
 The Privately Held and Preferred Future overlays are typography-only: their
 scene masters already contain finished, illuminated billboard faces. No second
 panel fill, rounded rectangle, or scanline card is composited over that physical

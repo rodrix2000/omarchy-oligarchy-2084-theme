@@ -13,7 +13,7 @@
     <text class="mono" x="60" y="76" font-size="18" fill="#9a77e8">REPOSITORY CONTROL // BOARD TERMINAL</text>
     <text class="display" x="60" y="172" font-size="68" fill="#4bd6d2">SOURCE: OPEN</text>
     <text class="display" x="60" y="252" font-size="68" fill="#e85aa8">BOARD: CLOSED</text>
-    <text class="mono" x="60" y="314" font-size="16" fill="#eaf2f7">CONTRIBUTIONS WELCOME.</text>
-    <text class="mono" x="60" y="344" font-size="16" fill="#e6b75a">CONTROL RETAINED.</text>
+    <text class="mono" x="60" y="314" font-size="16" fill="#eaf2f7">PULL REQUESTS WELCOME.</text>
+    <text class="mono" x="60" y="344" font-size="16" fill="#e6b75a">POWER REQUESTS DECLINED.</text>
   </g>
 </svg>

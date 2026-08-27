@@ -2,7 +2,8 @@
 
 Validated on 2026-08-26 against Omarchy `4.0.1-1` and the Quattro branch at
 commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`. The billboard-compositing
-correction was installed and revalidated live on 2026-08-27.
+correction and the seven-wallpaper satirical copy revision were installed and
+revalidated live on 2026-08-27.
 
 ## Installation and staging
 
@@ -41,6 +42,10 @@ correction was installed and revalidated live on 2026-08-27.
 - PASS — Privately Held and Preferred Future were captured unobstructed at the
   live 1440×900 desktop crop after the correction. Neither contains a duplicate
   panel edge, and no text crosses the physical billboard frame.
+- PASS — All seven revised campaign messages were inspected at their native 4K
+  resolution, in the contact sheet, and as live 1440×900 desktop crops. The
+  longer pre-recorded, premium-feature, and outcome-locked lines remain legible
+  and contained by their physical displays.
 
 The actual lock and polkit credential flows were not submitted during automated
 validation. Their generated shell sections were inspected for background,

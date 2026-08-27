@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.3.0 — 2026-08-27
+
+- Rewrote all seven wallpaper messages around a sharper deadpan rule: an
+  optimistic civic promise followed by the fine print that quietly takes it
+  away.
+- Added the new campaign punchlines “Thank you for renting,” “Now with fewer
+  commoners,” “The decision was pre-recorded,” “Democracy is a premium
+  feature,” “Power requests declined,” “Or permitted,” and “To current
+  owners.”
+- Preserved the physical-display typography, retro-futurist hierarchy, and
+  desktop legibility while rebuilding every affected derivative and live
+  preview.
+
 ## 1.2.2 — 2026-08-27
 
 - Removed the duplicate translucent display panels from Privately Held and

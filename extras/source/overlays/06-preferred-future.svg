@@ -11,7 +11,8 @@
     <text class="display" x="2150" y="1315" font-size="74" fill="#151f33">YOUR FUTURE HAS</text>
     <text class="display" x="2145" y="1411" font-size="74" fill="#4bd6d2" opacity=".35">BEEN PRE-APPROVED</text>
     <text class="display" x="2150" y="1406" font-size="74" fill="#7653cf">BEEN PRE-APPROVED</text>
-    <text class="mono" x="2150" y="1475" font-size="18" fill="#3d4657">CHANGES REQUIRE A CONTROLLING INTEREST.</text>
-    <text class="mono" x="2150" y="1515" font-size="14" fill="#6f7f96">PROGRAM 2084 // PREFERRED OUTCOME</text>
+    <text class="mono" x="2150" y="1468" font-size="17" fill="#3d4657">NO ACTION IS REQUIRED.</text>
+    <text class="mono" x="2150" y="1498" font-size="17" fill="#9b3b60">OR PERMITTED.</text>
+    <text class="mono" x="2150" y="1528" font-size="13" fill="#6f7f96">OUTCOME LOCKED FOR YOUR CONVENIENCE.</text>
   </g>
 </svg>

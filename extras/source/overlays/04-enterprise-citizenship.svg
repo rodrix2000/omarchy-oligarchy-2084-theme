@@ -13,9 +13,9 @@
     <text class="mono" x="72" y="88" font-size="19" fill="#4bd6d2">CIVIC ENROLLMENT // ACCESS CLASSES</text>
     <rect x="72" y="120" width="850" height="3" fill="#4bd6d2"/>
     <text class="display" x="72" y="225" font-size="72" fill="#eaf2f7">CITIZENSHIP IS FREE.</text>
-    <text class="display" x="68" y="322" font-size="76" fill="#4bd6d2" opacity=".34">INFLUENCE REQUIRES</text>
-    <text class="display" x="72" y="318" font-size="76" fill="#9a77e8">INFLUENCE REQUIRES</text>
-    <text class="display" x="72" y="402" font-size="76" fill="#e6b75a">EQUITY.</text>
+    <text class="display" x="68" y="322" font-size="76" fill="#4bd6d2" opacity=".34">DEMOCRACY IS A</text>
+    <text class="display" x="72" y="318" font-size="76" fill="#9a77e8">DEMOCRACY IS A</text>
+    <text class="display" x="72" y="402" font-size="76" fill="#e6b75a">PREMIUM FEATURE.</text>
     <text class="mono" x="72" y="478" font-size="17" fill="#a8b5c6">PUBLIC // PREFERRED // CONTROLLING</text>
   </g>
 </svg>

@@ -13,8 +13,8 @@
     <rect x="74" y="112" width="880" height="3" fill="#4bd6d2"/>
     <text class="display" x="74" y="222" font-size="72" fill="#eaf2f7">PUBLIC FLOAT</text>
     <text class="display" x="720" y="222" font-size="82" fill="#9a77e8">0.00%</text>
-    <text class="mono" x="74" y="310" font-size="19" fill="#eaf2f7">EVERYONE MAY VIEW.</text>
-    <text class="mono" x="74" y="356" font-size="19" fill="#e6b75a">FEW MAY VOTE.</text>
+    <text class="mono" x="74" y="310" font-size="19" fill="#eaf2f7">OWNERSHIP IS OPEN.</text>
+    <text class="mono" x="74" y="356" font-size="19" fill="#e6b75a">TO CURRENT OWNERS.</text>
     <text class="mono" x="74" y="428" font-size="15" fill="#6f7f96">SYSTEM VISIBILITY: PUBLIC // CONTROL: RETAINED</text>
   </g>
 </svg>
