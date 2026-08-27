@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.2 — 2026-08-27
+
+- Removed the duplicate translucent display panels from Privately Held and
+  Preferred Future so their typography sits directly on the billboards built
+  into each scene.
+- Re-inset the Preferred Future campaign copy to keep every line within the
+  physical display face at both 4K and the live 1440×900 desktop crop.
+- Rebuilt the affected ultrawide, social, contact-sheet, and preview assets and
+  repeated the live Omarchy validation pass.
+
 ## 1.2.1 — 2026-08-26
 
 - Completed a live UI/UX review across the Omarchy shell, menus, notifications,

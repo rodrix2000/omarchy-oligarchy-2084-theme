@@ -13,6 +13,12 @@ ownership-registry instrument. Fine scan lines, phosphor bloom, print grain,
 and slight registration drift carry the late-1970s/early-1980s
 retro-science-fiction language without sacrificing desktop legibility.
 
+The Privately Held and Preferred Future overlays are typography-only: their
+scene masters already contain finished, illuminated billboard faces. No second
+panel fill, rounded rectangle, or scanline card is composited over that physical
+hardware. Preferred Future uses a tighter inset to remain inside the billboard's
+perspective edges at the native 4K export and the 1440×900 desktop crop.
+
 The final raster exports are sRGB JPEGs at 3840×2160. Textless masters use the
 same dimensions. Dedicated ultrawide variants are 3440×1440 and are cropped or
 recomposed from the clean scene rather than stretched.

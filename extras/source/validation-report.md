@@ -1,7 +1,8 @@
 # Validation report
 
 Validated on 2026-08-26 against Omarchy `4.0.1-1` and the Quattro branch at
-commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`.
+commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`. The billboard-compositing
+correction was installed and revalidated live on 2026-08-27.
 
 ## Installation and staging
 
@@ -37,6 +38,9 @@ commit `0ae1694830b6bd9511042fe1b89a0062d8c083cb`.
 - PASS — `preview.png` is a native 1440×900 screenshot of the running system,
   not a conceptual mockup. Its application windows occupy the left half while
   the Preferred Future campaign display remains fully visible on the right.
+- PASS — Privately Held and Preferred Future were captured unobstructed at the
+  live 1440×900 desktop crop after the correction. Neither contains a duplicate
+  panel edge, and no text crosses the physical billboard frame.
 
 The actual lock and polkit credential flows were not submitted during automated
 validation. Their generated shell sections were inspected for background,
